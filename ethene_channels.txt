@@ -1,0 +1,38 @@
+ethene_threechannel_paper
+ethene_test.log
+3 # no channels (for now)
+1 # v0
+OUTCOME
+2 # no fragments
+0.50 #
+1
+1
+1
+2
+2
+2
+1
+1
+OUTCOME
+2 # no fragments
+0.30 #
+1
+1
+1
+2
+2
+2
+1
+2
+OUTCOME
+2 # no fragments
+0.20 #
+1
+1
+1
+2
+2
+2
+2
+2
+END
